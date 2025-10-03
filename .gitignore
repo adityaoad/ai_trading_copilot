@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Secrets
+.env
+.env.*
+*.pem
+*.p12
+*.crt
+*.key
+*service_account*.json
+*credentials*.json
+secrets*.json
+
+# Node if present
+node_modules/
+dist/
+build/

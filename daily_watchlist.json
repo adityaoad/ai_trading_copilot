@@ -1,0 +1,355 @@
+{
+  "generated_at_utc": "2025-09-20T07:04:27.197636+00:00",
+  "ideas": [
+    {
+      "symbol": "HRI",
+      "asset": "equity",
+      "entry": 119.1,
+      "stop": 108.9,
+      "target": 139.5,
+      "rsi": 38.39,
+      "atr": 6.8,
+      "units": 0
+    },
+    {
+      "symbol": "NE",
+      "asset": "equity",
+      "entry": 28.24,
+      "stop": 26.45,
+      "target": 31.82,
+      "rsi": 49.58,
+      "atr": 1.19,
+      "units": 5
+    },
+    {
+      "symbol": "QUBT",
+      "asset": "equity",
+      "entry": 23.27,
+      "stop": 21.12,
+      "target": 27.57,
+      "rsi": 81.55,
+      "atr": 1.43,
+      "units": 4
+    },
+    {
+      "symbol": "HESM",
+      "asset": "equity",
+      "entry": 35.36,
+      "stop": 33.85,
+      "target": 38.38,
+      "rsi": 16.89,
+      "atr": 1.01,
+      "units": 6
+    },
+    {
+      "symbol": "WPP",
+      "asset": "equity",
+      "entry": 24.04,
+      "stop": 23.13,
+      "target": 25.87,
+      "rsi": 26.59,
+      "atr": 0.61,
+      "units": 10
+    },
+    {
+      "symbol": "MTSR",
+      "asset": "equity",
+      "entry": 33.32,
+      "stop": 29.58,
+      "target": 40.8,
+      "rsi": 43.82,
+      "atr": 2.49,
+      "units": 2
+    },
+    {
+      "symbol": "QTWO",
+      "asset": "equity",
+      "entry": 78.18,
+      "stop": 74.08,
+      "target": 86.39,
+      "rsi": 48.84,
+      "atr": 2.74,
+      "units": 2
+    },
+    {
+      "symbol": "PONY",
+      "asset": "equity",
+      "entry": 20.71,
+      "stop": 19.07,
+      "target": 23.99,
+      "rsi": 85.54,
+      "atr": 1.09,
+      "units": 6
+    },
+    {
+      "symbol": "RGTI",
+      "asset": "equity",
+      "entry": 28.52,
+      "stop": 25.87,
+      "target": 33.81,
+      "rsi": 90.08,
+      "atr": 1.76,
+      "units": 3
+    },
+    {
+      "symbol": "WRD",
+      "asset": "equity",
+      "entry": 11.53,
+      "stop": 10.83,
+      "target": 12.93,
+      "rsi": 79.73,
+      "atr": 0.47,
+      "units": 14
+    },
+    {
+      "symbol": "VOR",
+      "asset": "equity",
+      "entry": 27.29,
+      "stop": 22.92,
+      "target": 36.04,
+      "rsi": 17.64,
+      "atr": 2.92,
+      "units": 2
+    },
+    {
+      "symbol": "BHF",
+      "asset": "equity",
+      "entry": 57.59,
+      "stop": 53.23,
+      "target": 66.32,
+      "rsi": 70.09,
+      "atr": 2.91,
+      "units": 2
+    },
+    {
+      "symbol": "SYM",
+      "asset": "equity",
+      "entry": 57.05,
+      "stop": 52.81,
+      "target": 65.52,
+      "rsi": 71.35,
+      "atr": 2.82,
+      "units": 2
+    },
+    {
+      "symbol": "RXO",
+      "asset": "equity",
+      "entry": 16.14,
+      "stop": 14.97,
+      "target": 18.48,
+      "rsi": 48.42,
+      "atr": 0.78,
+      "units": 8
+    },
+    {
+      "symbol": "VSEC",
+      "asset": "equity",
+      "entry": 160.94,
+      "stop": 151.45,
+      "target": 179.91,
+      "rsi": 48.62,
+      "atr": 6.32,
+      "units": 1
+    },
+    {
+      "symbol": "QS",
+      "asset": "equity",
+      "entry": 13.42,
+      "stop": 11.85,
+      "target": 16.56,
+      "rsi": 81.02,
+      "atr": 1.05,
+      "units": 6
+    },
+    {
+      "symbol": "DXCM",
+      "asset": "equity",
+      "entry": 67.45,
+      "stop": 62.69,
+      "target": 76.97,
+      "rsi": 33.56,
+      "atr": 3.17,
+      "units": 2
+    },
+    {
+      "symbol": "QMMM",
+      "asset": "equity",
+      "entry": 82.84,
+      "stop": 12.09,
+      "target": 224.35,
+      "rsi": 59.85,
+      "atr": 47.17,
+      "units": 0
+    },
+    {
+      "symbol": "QBTS",
+      "asset": "equity",
+      "entry": 26.88,
+      "stop": 24.6,
+      "target": 31.44,
+      "rsi": 94.68,
+      "atr": 1.52,
+      "units": 4
+    },
+    {
+      "symbol": "CART",
+      "asset": "equity",
+      "entry": 41.5,
+      "stop": 38.99,
+      "target": 46.52,
+      "rsi": 41.72,
+      "atr": 1.67,
+      "units": 3
+    },
+    {
+      "symbol": "ORLA",
+      "asset": "equity",
+      "entry": 10.22,
+      "stop": 9.25,
+      "target": 12.16,
+      "rsi": 43.11,
+      "atr": 0.65,
+      "units": 10
+    },
+    {
+      "symbol": "MENS",
+      "asset": "equity",
+      "entry": 65.62,
+      "stop": 53.32,
+      "target": 90.21,
+      "rsi": 59.09,
+      "atr": 8.2,
+      "units": 0
+    },
+    {
+      "symbol": "SMR",
+      "asset": "equity",
+      "entry": 46.77,
+      "stop": 41.35,
+      "target": 57.6,
+      "rsi": 68.34,
+      "atr": 3.61,
+      "units": 1
+    },
+    {
+      "symbol": "HMY",
+      "asset": "equity",
+      "entry": 16.88,
+      "stop": 15.67,
+      "target": 19.29,
+      "rsi": 75.86,
+      "atr": 0.8,
+      "units": 8
+    },
+    {
+      "symbol": "OTF",
+      "asset": "equity",
+      "entry": 14.51,
+      "stop": 13.82,
+      "target": 15.9,
+      "rsi": 43.34,
+      "atr": 0.46,
+      "units": 14
+    },
+    {
+      "symbol": "LEU",
+      "asset": "equity",
+      "entry": 294.49,
+      "stop": 267.6,
+      "target": 348.27,
+      "rsi": 84.36,
+      "atr": 17.93,
+      "units": 0
+    },
+    {
+      "symbol": "SM",
+      "asset": "equity",
+      "entry": 25.66,
+      "stop": 23.87,
+      "target": 29.24,
+      "rsi": 35.18,
+      "atr": 1.19,
+      "units": 5
+    },
+    {
+      "symbol": "OKLO",
+      "asset": "equity",
+      "entry": 135.23,
+      "stop": 122.9,
+      "target": 159.89,
+      "rsi": 93.27,
+      "atr": 8.22,
+      "units": 0
+    },
+    {
+      "symbol": "B",
+      "asset": "equity",
+      "entry": 32.99,
+      "stop": 31.63,
+      "target": 35.72,
+      "rsi": 91.62,
+      "atr": 0.91,
+      "units": 7
+    },
+    {
+      "symbol": "JOBY",
+      "asset": "equity",
+      "entry": 16.58,
+      "stop": 15.19,
+      "target": 19.35,
+      "rsi": 72.05,
+      "atr": 0.92,
+      "units": 7
+    },
+    {
+      "symbol": "BTC-USD",
+      "asset": "crypto",
+      "entry": 115759.49,
+      "stop": 115325.39,
+      "target": 116627.69,
+      "rsi": 54.65,
+      "atr": 289.4,
+      "units": 0
+    },
+    {
+      "symbol": "ETH-USD",
+      "asset": "crypto",
+      "entry": 4476.57,
+      "stop": 4457.18,
+      "target": 4515.37,
+      "rsi": 59.43,
+      "atr": 12.93,
+      "units": 0
+    },
+    {
+      "symbol": "DOGE-USD",
+      "asset": "crypto",
+      "entry": 0.26638,
+      "stop": 0.26238,
+      "target": 0.27437,
+      "rsi": 53.35,
+      "atr": 0.00266,
+      "units": 2502
+    },
+    {
+      "symbol": "SOL-USD",
+      "asset": "crypto",
+      "entry": 239.33,
+      "stop": 237.92,
+      "target": 242.16,
+      "rsi": 68.29,
+      "atr": 0.94,
+      "units": 7
+    },
+    {
+      "symbol": "XRP-USD",
+      "asset": "crypto",
+      "entry": 3.01,
+      "stop": 2.99,
+      "target": 3.03,
+      "rsi": 55.9,
+      "atr": 0.01,
+      "units": 733
+    }
+  ]
+}

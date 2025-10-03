@@ -1,0 +1,16 @@
+cat > README_MONITOR.txt << 'TXT'
+Run:
+  python daily_watchlist.py --auto --risk 10
+  python monitor_entries.py --interval 10
+
+Options:
+  --interval 0   # run once and exit
+  export TELEGRAM_BOT_TOKEN=...; export TELEGRAM_CHAT_ID=...  # enable Telegram alerts
+
+Logs:
+  trades_log.csv is appended on every trigger.
+
+Troubleshoot:
+  If it seems slow, try: python monitor_entries.py --interval 0
+  If nothing triggers, rebuild the watchlist first.
+TXT

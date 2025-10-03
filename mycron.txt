@@ -1,0 +1,2 @@
+20 7 * * 1-5 /bin/zsh -lc '/Users/adityasmacbookair/Documents/ai_trading_copilot/run_copilot.sh' >> /Users/adityasmacbookair/Documents/ai_trading_copilot/logs/runner.log 2>&1
+15 16 * * 1-5 /Users/adityasmacbookair/Documents/ai_trading_copilot/.venv/bin/python /Users/adityasmacbookair/Documents/ai_trading_copilot/evaluator.py >> /Users/adityasmacbookair/Documents/ai_trading_copilot/logs/evaluator.log 2>&1
